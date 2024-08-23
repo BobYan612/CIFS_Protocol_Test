@@ -11,7 +11,7 @@ There are the below considerations during implementation:
 
 
 **Dependency**  
-MD5 http://www.bzflag.org  
+MD5 
 
 
 
