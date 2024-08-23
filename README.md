@@ -23,7 +23,7 @@ MD5 http://www.bzflag.org
  --num_file|-n      :the number of file in every folder                  
  --folder_prefix|-o :the prefix name for folder                        
  --file_prefix|-e   :the prefix name for the files                     
- --operation|-o     :the operation  (create | delete | update |verify)
+ --operation|-o     :the operation  (create | delete | update |verify)  
  --duration|-u      :the duration for update or verify                
  --help|-h          :Help                                             
 
